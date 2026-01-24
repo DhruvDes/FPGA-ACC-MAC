@@ -44,3 +44,10 @@ https://github.com/user-attachments/assets/ab6f93d4-f7ec-4b46-a643-3ef21457dc1b
 
 <img width="1600" height="426" alt="{FC24D8CF-D180-4263-B008-D5A69290EE3E}" src="https://github.com/user-attachments/assets/630293e8-d7df-4a69-8c8c-ce6d4953fe75" />
 
+## Waveform example of one transaction 
+### example of Tx
+<img width="2559" height="1391" alt="image" src="https://github.com/user-attachments/assets/721079a5-4796-44f3-8342-acdc7dacb69b" />
+### example of compute and Rx
+<img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/ad1e4c8f-379f-4b9d-89c1-47e882aa0eca" />
+
+
