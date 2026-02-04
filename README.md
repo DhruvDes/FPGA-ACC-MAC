@@ -29,8 +29,8 @@
 - example_use.py
   - clean example to show you how it works
 
-Since this is an active personal project it is only 4X4 matrix and only 8 bits for now I aim to impliment more complex protocol as I learn (internal: ABP, AHB, AXI ... etc, External: I2C ..etc).  
-
+Since this is an active personal project it is only 4X4 matrix and only 8 bits for now I aim to impliment more complex protocol as I learn (internal: ABP, AHB, AXI as seems fit, External: I2C).  
+[] UART DMA 
 
 ## Tiny Demo 
 https://github.com/user-attachments/assets/ab6f93d4-f7ec-4b46-a643-3ef21457dc1b
