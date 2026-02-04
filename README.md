@@ -48,6 +48,8 @@ https://github.com/user-attachments/assets/ab6f93d4-f7ec-4b46-a643-3ef21457dc1b
 Given that the system runs at 100MHZ and 9600 Baud for UART One entire transaction takes 69.8ms to from when the transmit starts to compute and write back. 
 1/69.8ms $\approx$ 14 Transfer/s
 
+## Overall TB
+<img width="2018" height="1099" alt="image" src="https://github.com/user-attachments/assets/5edfcc78-a0a0-4982-89d4-48dbda31bdc7" />
 
 ## Systollic array UVC
 ![Drawing 2025-07-30 10 59 49 excalidraw](https://github.com/user-attachments/assets/f1acf7d0-6aad-4292-9a58-dcf4aa1be77d)
